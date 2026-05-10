@@ -1,7 +1,7 @@
 <html>
   <head></head>
   <body>
-<h2> # Hi, I'm Aniket 👋 </h2>
+<h1> Hi, I'm Aniket 👋 </h1>
   
 </body>
 </html>
