@@ -24,9 +24,7 @@
 ---
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aniket28-05&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aniket28-05&theme=tokyonight" alt="streak" />
